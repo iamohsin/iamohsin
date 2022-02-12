@@ -2,6 +2,7 @@
 - 👀 I’m interested in MERN Slack
 - 🌱 I’m currently learning development
 - 💞️ I’m looking to collaborate on React projects
+- 👀 My Profile https://iamohsin.netlify.app/
 - 📫 How to reach me mohsinameen60@gmail.com
 
 <!---
