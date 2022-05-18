@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamohsin
-- 👀 I’m interested in MERN Slack
-- 🌱 I’m currently working as MERN stack developer
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently working as Full-Stack Developer
 - 💞️ I’m looking to collaborate on React projects
 - 👀 My Profile https://iamohsin.netlify.app/
 - 📫 How to reach me mohsinameen60@gmail.com
