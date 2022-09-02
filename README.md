@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">السلام عليكم 👋  <br> I am Mubashir Ibrahim😄</h1>
+<h1 align="center">السلام عليكم 👋  <br> I am Muhammad Mohsin😄</h1>
 
 </div>
 
