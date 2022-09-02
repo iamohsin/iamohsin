@@ -7,8 +7,8 @@ I'm a MERN Stack Developer.</h1>
 
 <div align="center">
   <a href="https://github.com/iamohsin">
-  <img  src="https://avatars.githubusercontent.com/u/59395132?v=4"
-       alt="ME" /></a>
+<!--   <img  src="https://avatars.githubusercontent.com/u/59395132?v=4" -->
+<!--        alt="ME" /></a> -->
 </div>
 <h4 align="center">
 I'm a professional and passionate Software Engineer and MERN Stack Developer focused on efficiency and constant learning.</h4>
