@@ -21,9 +21,3 @@ I'm a professional and passionate Software Engineer and MERN Stack Developer foc
 
 <br>
 
-
- 
-
-------
-Credit: [For Such Amazing Content & Templates Visit Azzar Profile:](https://github.com/1999azzar)
-Last Edited on: 01/06/2022
