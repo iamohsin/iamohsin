@@ -22,7 +22,7 @@ I'm a professional and passionate Software Engineer and MERN Stack Developer foc
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working as Full-Stack Developer
 - 💞️ I’m looking to collaborate on React projects
-- 👀 My Profile https://iamohsin.netlify.app
+- 👀 My Profile https://iamohsin.netlify.com
 - 📫 How to reach me mohsinameen60@gmail.com
 </div>
 
