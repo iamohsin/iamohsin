@@ -6,12 +6,14 @@ Software engineer ( MERN )
 
 I'm a professional and passionate having 3-year experience as Software Engineer and MERN Stack Developer focused on efficiency and constant learning.
 
-* 🌍  I'm based in Multan
+* 🌍  I'm based in Multan, Pakistan
 * 🖥️  See my portfolio at [iamohsin.com](http://iamohsin.netlify.app/)
 * ✉️  You can contact me at [mohsinameen60@gmail.com](mailto:mohsinameen60@gmail.com)
+* 🧠  I'm learning Web 3.0
 * 🤝  I'm open to collaborating on Web Development Project
 
-<a href="https://www.twitter.com/iammohsinameen" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/iamohsin" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/iamohsin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/iammohsinameen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/iammohsinameen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
@@ -46,7 +48,7 @@ src="https://img.shields.io/twitter/follow/iammohsinameen?logo=twitter&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/iamohsin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamohsin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/iamohsin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamohsin&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Support Me
 
