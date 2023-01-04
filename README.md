@@ -12,8 +12,7 @@ I'm a professional and passionate having 3-year experience as Software Engineer 
 * 🧠  I'm learning Web 3.0
 * 🤝  I'm open to collaborating on Web Development Project
 
-<a href="https://www.github.com/iamohsin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/iamohsin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/iammohsinameen" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/iammohsinameen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/iammohsinameen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
