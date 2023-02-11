@@ -50,5 +50,5 @@ src="https://img.shields.io/twitter/follow/iammohsinameen?logo=twitter&style=for
 
 <a href="http://www.github.com/iamohsin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamohsin&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://app.daily.dev/iamohsin"><img src="https://api.daily.dev/devcards/2271a4a023a940e8b900aeae24d1d238.png?r=z7i" width="400" alt="Muhammad Mohsin's Dev Card"/></a>
-
+<!-- <a href="https://app.daily.dev/iamohsin"><img src="https://api.daily.dev/devcards/2271a4a023a940e8b900aeae24d1d238.png?r=z7i" width="400" alt="Muhammad Mohsin's Dev Card"/></a>
+ -->
