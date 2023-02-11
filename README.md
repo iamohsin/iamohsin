@@ -52,3 +52,4 @@ src="https://img.shields.io/twitter/follow/iammohsinameen?logo=twitter&style=for
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/iamohsin60"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://app.daily.dev/iamohsin"><img src="https://api.daily.dev/devcards/2271a4a023a940e8b900aeae24d1d238.png?r=z7i" width="400" alt="Muhammad Mohsin's Dev Card"/></a>
