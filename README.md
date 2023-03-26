@@ -9,6 +9,7 @@ I'm a professional and passionate having 3-year experience as Software Engineer 
 
 * 🌍  I'm based in Multan, Pakistan
 * 🖥️  See my portfolio at [iamohsin.com](http://iamohsin.netlify.app/)
+* 🖥️  See my CV at [iamohsin](http://iamohsin-cv.netlify.app/)
 * ✉️  You can contact me at [mohsinameen60@gmail.com](mailto:mohsinameen60@gmail.com)
 * 🧠  I'm learning Web 3.0
 * 🤝  I'm open to collaborating on Web Development Project
