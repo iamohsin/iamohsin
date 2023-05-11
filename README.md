@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software engineer ( MERN Stack )
 --------------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamohsin&label=Profile%20views&color=0e75b6&style=flat" alt="iamohsin" /> </p>
 
 I'm a professional and passionate having 3-year experience as Software Engineer and MERN Stack Developer focused on efficiency and constant learning.
 
@@ -53,4 +54,4 @@ src="https://img.shields.io/twitter/follow/iammohsinameen?logo=twitter&style=for
 
 <a href="https://app.daily.dev/iamohsin"><img src="https://api.daily.dev/devcards/2271a4a023a940e8b900aeae24d1d238.png?r=rj4" width="400" alt="Muhammad Mohsin's Dev Card"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamohsin&label=Profile%20views&color=0e75b6&style=flat" alt="iamohsin" /> </p>
+
