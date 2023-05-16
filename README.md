@@ -2,11 +2,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Mohsin
 =======================================================================================================================================
 
-Software engineer ( MERN Stack )
+Full Stack Software Engineer ( MERN Stack )
 --------------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamohsin&label=Profile%20views&color=0e75b6&style=flat" alt="iamohsin" /> </p>
 
-I'm a professional and passionate having 3-year experience as Software Engineer and MERN Stack Developer focused on efficiency and constant learning.
+I'm a professional and passionate having 4-year experience as Software Engineer and MERN Stack Developer focused on efficiency and constant learning.
 
 * 🌍  I'm based in Multan, Pakistan
 * 🖥️  See my portfolio at [iamohsin.com](http://iamohsin.netlify.app/)
