@@ -12,7 +12,6 @@ I'm a professional and passionate having 4-year experience as Software Engineer 
 * 🖥️  See my portfolio at [iamohsin.com](http://iamohsin.netlify.app/)
 * 🖥️  See my CV at [iamohsin](http://iamohsin-cv.netlify.app/)
 * ✉️  You can contact me at [mohsinameen60@gmail.com](mailto:mohsinameen60@gmail.com)
-* 🧠  I'm learning Web 3.0
 * 🤝  I'm open to collaborating on Web Development Project
 
 <a href="https://www.twitter.com/iammohsinameen" target="_blank" rel="noreferrer"><img
