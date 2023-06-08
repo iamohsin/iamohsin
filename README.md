@@ -6,7 +6,30 @@ Full Stack Software Engineer ( MERN Stack )
 --------------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamohsin&label=Profile%20views&color=0e75b6&style=flat" alt="iamohsin" /> </p>
 
-I'm a professional and passionate having 4-year experience as Software Engineer and MERN Stack Developer focused on efficiency and constant learning.
+With a 4-year track record as an accomplished software engineer and MERN stack developer, I am committed to continuously improving software development practices and achieving optimal efficiency. I specialize in JavaScript/TypeScript technologies, particularly in the MERN Stack, and consistently deliver high-quality web applications. I am known for my strong problem-solving and collaboration skills, ensuring project success.
+
+Achievements:
+
+Developed and maintained full-stack web applications using React, Node.js, Express.js, TypeScript, knex.js, Postgresql, and Puppeteer.
+Conducted web scraping of data from various websites using Puppeteer.
+Utilized modern front-end technologies including React, SASS, Bootstrap, and Jest to facilitate test-driven development.
+Implemented new features and resolved bugs on both the front-end and back-end.
+Provided technical guidance and support to team members during collaborative efforts.
+Leveraged WebSockets, RESTful APIs, and Redis-Cli to optimize system performance.
+Identified and addressed software bugs and issues, resulting in productivity enhancements.
+Debugged and troubleshooted web applications to ensure smooth operation.
+Proficient in testing frameworks such as Jest.
+Actively participated in code reviews and provided constructive feedback to team members.
+Evaluated and enhanced existing projects to optimize performance and functionality.
+Self-directed and highly collaborative, actively contributing ideas and promoting knowledge sharing.
+Adhered to best practices, design principles, and quality controls when writing code.
+Tech Stack: React.js, Node.js, Puppeteer, PostgreSQL, Knex.js, TypeScript, HTML/SASS, JavaScript, Redis-cli, WebSockets.
+
+Web Profile
+https://iamohsin.netlify.com
+
+Github link
+https://github.com/iamohsin
 
 * 🌍  I'm based in Multan, Pakistan
 * 🖥️  See my portfolio at [iamohsin.com](http://iamohsin.netlify.app/)
