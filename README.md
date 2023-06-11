@@ -25,11 +25,14 @@ Self-directed and highly collaborative, actively contributing ideas and promotin
 Adhered to best practices, design principles, and quality controls when writing code.
 Tech Stack: React.js, Node.js, Puppeteer, PostgreSQL, Knex.js, TypeScript, HTML/SASS, JavaScript, Redis-cli, WebSockets.
 
-Web Profile
-https://iamohsin.netlify.com
+linkedin link
+https://www.linkedin.com/in/iamohsin/
 
 Github link
 https://github.com/iamohsin
+
+Web Profile
+https://iamohsin.netlify.com
 
 * 🌍  I'm based in Multan, Pakistan
 * 🖥️  See my portfolio at [iamohsin.com](http://iamohsin.netlify.app/)
