@@ -25,12 +25,10 @@ Self-directed and highly collaborative, actively contributing ideas and promotin
 Adhered to best practices, design principles, and quality controls when writing code.
 Tech Stack: React.js, Node.js, Puppeteer, PostgreSQL, Knex.js, TypeScript, HTML/SASS, JavaScript, Redis-cli, WebSockets.
 
-linkedin link
+Linkedin link
 https://www.linkedin.com/in/iamohsin/
-
 Github link
 https://github.com/iamohsin
-
 Web Profile
 https://iamohsin.netlify.com
 
