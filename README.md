@@ -27,8 +27,10 @@ Tech Stack: React.js, Node.js, Puppeteer, PostgreSQL, Knex.js, TypeScript, HTML/
 
 Linkedin link
 https://www.linkedin.com/in/iamohsin/
+
 Github link
 https://github.com/iamohsin
+
 Web Profile
 https://iamohsin.netlify.com
 
