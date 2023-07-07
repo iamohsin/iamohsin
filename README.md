@@ -26,7 +26,7 @@ Adhered to best practices, design principles, and quality controls when writing 
 Tech Stack: React.js, Node.js, Puppeteer, PostgreSQL, Knex.js, TypeScript, HTML/SASS, JavaScript, Redis-cli, WebSockets.
 
 Linkedin link
-https://www.linkedin.com/in/iamohsin/
+https://www.linkedin.com/in/iamohsin
 
 Github link
 https://github.com/iamohsin
