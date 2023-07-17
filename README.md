@@ -9,7 +9,6 @@ Full Stack Software Engineer ( MERN Stack )
 With a 4-year track record as an accomplished software engineer and MERN stack developer, I am committed to continuously improving software development practices and achieving optimal efficiency. I specialize in JavaScript/TypeScript technologies, particularly in the MERN Stack, and consistently deliver high-quality web applications. I am known for my strong problem-solving and collaboration skills, ensuring project success.
 
 Achievements:
-
 Developed and maintained full-stack web applications using React, Node.js, Express.js, TypeScript, knex.js, Postgresql, and Puppeteer.
 Conducted web scraping of data from various websites using Puppeteer.
 Utilized modern front-end technologies including React, SASS, Bootstrap, and Jest to facilitate test-driven development.
