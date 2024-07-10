@@ -31,7 +31,7 @@ Github link
 https://github.com/iamohsin
 
 Web Profile
-https://iamohsin.netlify.com
+https://iamohsin.netlify.app
 
 * 🌍  I'm based in Multan, Pakistan
 * 🖥️  See my portfolio at [iamohsin.com](http://iamohsin.netlify.app/)
