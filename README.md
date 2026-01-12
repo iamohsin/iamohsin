@@ -1,50 +1,49 @@
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Mohsin
 =======================================================================================================================================
 
-Full Stack Software Engineer ( MERN Stack )
---------------------------------
+AI-Powered Full-Stack Software Engineer ( MERN Stack )
+-------------------------------------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamohsin&label=Profile%20views&color=0e75b6&style=flat" alt="iamohsin" /> </p>
 
-With a 5-year track record as an accomplished software engineer and MERN stack developer, I am committed to continuously improving software development practices and achieving optimal efficiency. I specialize in JavaScript/TypeScript technologies, particularly in the MERN Stack, and consistently deliver high-quality web applications. I am known for my strong problem-solving and collaboration skills, ensuring project success.
+With 6+ years of experience as an accomplished AI-powered Full-Stack Software Engineer and MERN stack developer, I specialize in building intelligent, scalable web applications using modern AI tools, cloud architectures, and cutting-edge technologies. I am committed to continuously improving software development practices and achieving optimal efficiency through AI-driven solutions and automation.
 
-Achievements:
-Developed and maintained full-stack web applications using React, Node.js, Express.js, TypeScript, knex.js, Postgresql, and Puppeteer.
-Conducted web scraping of data from various websites using Puppeteer.
-Utilized modern front-end technologies including React, SASS, Bootstrap, and Jest to facilitate test-driven development.
-Implemented new features and resolved bugs on both the front-end and back-end.
-Provided technical guidance and support to team members during collaborative efforts.
-Leveraged WebSockets, RESTful APIs, and Redis-Cli to optimize system performance.
-Identified and addressed software bugs and issues, resulting in productivity enhancements.
-Debugged and troubleshooted web applications to ensure smooth operation.
-Proficient in testing frameworks such as Jest.
-Actively participated in code reviews and provided constructive feedback to team members.
-Evaluated and enhanced existing projects to optimize performance and functionality.
-Self-directed and highly collaborative, actively contributing ideas and promoting knowledge sharing.
-Adhered to best practices, design principles, and quality controls when writing code.
-Tech Stack: React.js, Node.js, Puppeteer, PostgreSQL, Knex.js, TypeScript, HTML/SASS, JavaScript, Redis-cli, WebSockets.
+**Current Focus:**
+- Designing and developing AI-powered agent platforms using OpenAI APIs, GPT-based NLP, and machine learning
+- Building serverless architectures with AWS SDK, DynamoDB, and Cognito with AI-driven optimizations
+- Creating intelligent, scalable solutions that transform complex ideas into high-performance applications
+- Leading cross-functional teams and mentoring developers, utilizing AI for automation and CI/CD
 
-Linkedin link
-https://www.linkedin.com/in/iamohsin
+**Key Achievements:**
+- Developed full-stack applications with React, Node.js, TypeScript, leveraging AI tools (Cursor, ChatGPT, GitHub Copilot) for accelerated development
+- Designed AI-powered agent platforms using OpenAI APIs, GPT-based NLP, and machine learning for automated workflows
+- Built serverless architectures with AWS SDK, DynamoDB, and Cognito with AI-driven optimizations
+- Created RESTful and GraphQL APIs with JWT authentication, RBAC, and WebSocket communication
+- Conducted web scraping and automation solutions using Puppeteer, REST APIs, WebSockets, and Redis
+- Implemented new features and resolved bugs on both front-end and back-end with modern testing practices
+- Led projects end-to-end, provided technical guidance, and optimized performance across teams
+- Utilized modern front-end technologies including React, Next.js, Svelte, SASS, Bootstrap, and Jest for test-driven development
+- Leveraged WebSockets, RESTful APIs, and Redis to optimize system performance
+- Actively participated in code reviews and provided constructive feedback to team members
+- Evaluated and enhanced existing projects to optimize performance and functionality
 
-Github link
-https://github.com/iamohsin
+**Tech Stack:** React.js, Next.js, Node.js, TypeScript, Express.js, MongoDB, PostgreSQL, DynamoDB, AWS, Puppeteer, Knex.js, HTML/SASS, JavaScript, Redis, WebSockets, GraphQL, AI Tools (Cursor, ChatGPT, GitHub Copilot, OpenAI API), Svelte, React Native, Firebase, Jest
 
-Web Profile
-https://iamohsin.netlify.app
+**AI Tools & Integration:**
+- Cursor, ChatGPT, Google Gemini, Claude AI, Perplexity AI, GitHub Copilot, OpenAI API, Tabnine
+- GPT-based NLP and machine learning integration
+- AI-driven automation and CI/CD workflows
 
-* 🌍  I'm based in Multan, Pakistan
-* 🖥️  See my portfolio at [iamohsin.com](http://iamohsin.netlify.app/)
-* 🖥️  See my CV at [iamohsin](http://iamohsin-cv.netlify.app/)
-* ✉️  You can contact me at [mohsinameen60@gmail.com](mailto:mohsinameen60@gmail.com)
-* 🤝  I'm open to collaborating on Web Development Project
+* 🌍  I'm based in Multan, Pakistan
+* 🖥️  See my portfolio at [iamohsin.com](https://iamohsin.com)
+* 🖥️  See my CV at [iamohsin-cv.netlify.app](https://iamohsin-cv.netlify.app)
+* ✉️  You can contact me at [mohsinameen60@gmail.com](mailto:mohsinameen60@gmail.com)
+* 🤝  I'm open to collaborating on Web Development and AI Integration Projects
 
 <a href="https://www.twitter.com/iammohsinameen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/iammohsinameen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
- 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -55,7 +54,6 @@ src="https://img.shields.io/twitter/follow/iammohsinameen?logo=twitter&style=for
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
@@ -63,12 +61,13 @@ src="https://img.shields.io/twitter/follow/iammohsinameen?logo=twitter&style=for
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 </p>
-
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/iamohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/iamohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/iamohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12656156/mohsin-ameen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/iammohsinameen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/iamohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/iamohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12656156/mohsin-ameen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/iammohsinameen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -77,5 +76,3 @@ src="https://img.shields.io/twitter/follow/iammohsinameen?logo=twitter&style=for
 <a href="http://www.github.com/iamohsin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamohsin&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://app.daily.dev/iamohsin"><img src="https://api.daily.dev/devcards/2271a4a023a940e8b900aeae24d1d238.png?r=rj4" width="400" alt="Muhammad Mohsin's Dev Card"/></a>
-
-
