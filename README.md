@@ -70,19 +70,6 @@ With **6+ years** of experience building intelligent, scalable web applications 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=iamohsin&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamohsin&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamohsin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div>
