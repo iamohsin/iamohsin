@@ -1,75 +1,118 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Mohsin
-=======================================================================================================================================
+# Hi there, I'm Muhammad Mohsin! 👋
 
-AI-Powered Full-Stack Software Engineer ( MERN Stack )
--------------------------------------------------------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamohsin&label=Profile%20views&color=0e75b6&style=flat" alt="iamohsin" /> </p>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=iamohsin&label=Profile%20views&color=0e75b6&style=flat)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/iammohsinameen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.twitter.com/iammohsinameen)
+  
+</div>
 
-With 6+ years of experience as an accomplished AI-powered Full-Stack Software Engineer and MERN stack developer, I specialize in building intelligent, scalable web applications using modern AI tools, cloud architectures, and cutting-edge technologies. I am committed to continuously improving software development practices and achieving optimal efficiency through AI-driven solutions and automation.
+## 🚀 AI-Powered Full-Stack Software Engineer | MERN Stack Specialist
 
-**Current Focus:**
-- Designing and developing AI-powered agent platforms using OpenAI APIs, GPT-based NLP, and machine learning
-- Building serverless architectures with AWS SDK, DynamoDB, and Cognito with AI-driven optimizations
-- Creating intelligent, scalable solutions that transform complex ideas into high-performance applications
-- Leading cross-functional teams and mentoring developers, utilizing AI for automation and CI/CD
+With **6+ years** of experience building intelligent, scalable web applications using modern AI tools, cloud architectures, and cutting-edge technologies. I'm passionate about transforming complex ideas into high-performance solutions through AI-driven development and automation.
 
-**Key Achievements:**
-- Developed full-stack applications with React, Node.js, TypeScript, leveraging AI tools (Cursor, ChatGPT, GitHub Copilot) for accelerated development
-- Designed AI-powered agent platforms using OpenAI APIs, GPT-based NLP, and machine learning for automated workflows
-- Built serverless architectures with AWS SDK, DynamoDB, and Cognito with AI-driven optimizations
-- Created RESTful and GraphQL APIs with JWT authentication, RBAC, and WebSocket communication
-- Conducted web scraping and automation solutions using Puppeteer, REST APIs, WebSockets, and Redis
-- Implemented new features and resolved bugs on both front-end and back-end with modern testing practices
-- Led projects end-to-end, provided technical guidance, and optimized performance across teams
-- Utilized modern front-end technologies including React, Next.js, Svelte, SASS, Bootstrap, and Jest for test-driven development
-- Leveraged WebSockets, RESTful APIs, and Redis to optimize system performance
-- Actively participated in code reviews and provided constructive feedback to team members
-- Evaluated and enhanced existing projects to optimize performance and functionality
+---
 
-**Tech Stack:** React.js, Next.js, Node.js, TypeScript, Express.js, MongoDB, PostgreSQL, DynamoDB, AWS, Puppeteer, Knex.js, HTML/SASS, JavaScript, Redis, WebSockets, GraphQL, AI Tools (Cursor, ChatGPT, GitHub Copilot, OpenAI API), Svelte, React Native, Firebase, Jest
+## 🎯 Current Focus
 
-**AI Tools & Integration:**
-- Cursor, ChatGPT, Google Gemini, Claude AI, Perplexity AI, GitHub Copilot, OpenAI API, Tabnine
-- GPT-based NLP and machine learning integration
-- AI-driven automation and CI/CD workflows
+- 🤖 Designing AI-powered agent platforms using **OpenAI APIs**, GPT-based NLP, and machine learning
+- ☁️ Building serverless architectures with **AWS SDK**, DynamoDB, and Cognito
+- 🔄 Creating intelligent automation workflows and CI/CD pipelines
+- 👥 Leading cross-functional teams and mentoring developers
 
-* 🌍  I'm based in Multan, Pakistan
-* 🖥️  See my portfolio at [iamohsin.com](https://iamohsin.com)
-* 🖥️  See my CV at [iamohsin-cv.netlify.app](https://iamohsin-cv.netlify.app)
-* ✉️  You can contact me at [mohsinameen60@gmail.com](mailto:mohsinameen60@gmail.com)
-* 🤝  I'm open to collaborating on Web Development and AI Integration Projects
+---
 
-<a href="https://www.twitter.com/iammohsinameen" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/iammohsinameen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+## 💼 Key Achievements
 
-### Skills
+✅ Developed full-stack applications with **React**, **Node.js**, **TypeScript** using AI tools (Cursor, ChatGPT, GitHub Copilot)  
+✅ Built AI-powered agent platforms with OpenAI APIs and GPT-based NLP for automated workflows  
+✅ Architected serverless solutions with AWS SDK, DynamoDB, and Cognito  
+✅ Created RESTful and GraphQL APIs with JWT authentication, RBAC, and WebSocket communication  
+✅ Implemented web scraping and automation using Puppeteer, REST APIs, and Redis  
+✅ Led end-to-end project delivery with performance optimization and technical guidance  
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-</p>
+---
 
-### Socials
+## 🛠️ Tech Stack
 
-<p align="left"> <a href="https://www.github.com/iamohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/iamohsin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12656156/mohsin-ameen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/iammohsinameen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Badges
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-<b>My GitHub Stats</b>
-<a href="https://app.daily.dev/iamohsin"><img src="https://api.daily.dev/devcards/2271a4a023a940e8b900aeae24d1d238.png?r=rj4" width="400" alt="Muhammad Mohsin's Dev Card"/></a>
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### AI Tools & Integration
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+**AI Stack:** Cursor, ChatGPT, Google Gemini, Claude AI, Perplexity AI, GitHub Copilot, OpenAI API, Tabnine
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamohsin&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamohsin&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamohsin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iamohsin.com)
+[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iamohsin-cv.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamohsin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/iammohsinameen)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/iamohsin)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://www.stackoverflow.com/users/12656156/mohsin-ameen)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinameen60@gmail.com)
+
+</div>
+
+---
+
+## 📍 Location & Collaboration
+
+🌍 Based in **Multan, Pakistan**  
+🤝 Open to collaborating on **Web Development** and **AI Integration Projects**  
+💬 Let's build something amazing together!
+
+---
+
+<div align="center">
+  <img src="https://api.daily.dev/devcards/2271a4a023a940e8b900aeae24d1d238.png?r=rj4" width="300" alt="Muhammad Mohsin's Dev Card"/>
+</div>
+
+<div align="center">
+  
+### ⭐ From [iamohsin](https://github.com/iamohsin) | Made with ❤️ and AI
+
+</div>
