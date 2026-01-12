@@ -100,6 +100,6 @@ With **6+ years** of experience building intelligent, scalable web applications 
 
 <div align="center">
   
-### ⭐ From [iamohsin](https://github.com/iamohsin) | Made with ❤️ and AI
+### ⭐ From [iamohsin]([https://github.com/iamohsin](https://iamohsin.netlify.app) | Made with ❤️ and AI
 
 </div>
